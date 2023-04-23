@@ -10,11 +10,7 @@ fvm flutter run
 
 ## License
 E-mergency is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-![Screenshot from 2023-04-23 17-05-57](https://user-images.githubusercontent.com/115885247/233833505-306aa98e-b448-4209-8fde-19c5ef8d1bfc.png)
-![Screenshot from 2023-04-23 17-05-51](https://user-images.githubusercontent.com/115885247/233833507-a95662ef-b565-4aaf-969f-2bfeae9f830f.png)
-![Screenshot from 2023-04-23 17-05-47](https://user-images.githubusercontent.com/115885247/233833510-4e5fc926-d803-4c71-93fc-4de41335adf0.png)
-![Screenshot from 2023-04-23 17-05-36](https://user-images.githubusercontent.com/115885247/233833514-06a21c0e-ddd8-4f95-8007-e667babbf3b9.png)
-![Screenshot from 2023-04-23 17-05-30](https://user-images.githubusercontent.com/115885247/233833516-04845c13-7907-4bbc-9732-28663977ed6e.png)
-![Screenshot from 2023-04-23 17-05-16](https://user-images.githubusercontent.com/115885247/233833517-933187ab-2c71-4268-bb64-b760803a2554.png)
-![Screenshot from 2023-04-23 17-05-03](https://user-images.githubusercontent.com/115885247/233833520-b8687d34-d79a-4c4a-a42c-e60bd4e97b9f.png) ![Screenshot from 2023-04-23 17-04-51](https://user-images.githubusercontent.com/115885247/233833618-241b5e85-10ba-469a-be93-83e223e1216e.png)
+![Screenshot from 2023-04-23 17-22-36](https://user-images.githubusercontent.com/115885247/233834178-b8abe886-d675-4178-9ee5-875b0b14b1f2.png)
+![Screenshot from 2023-04-23 17-22-32](https://user-images.githubusercontent.com/115885247/233834180-47b839e2-95c5-4b20-9746-94d530532e36.png)
+![Screenshot from 2023-04-23 17-22-27](https://user-images.githubusercontent.com/115885247/233834182-04313890-221b-4b72-9a28-65eb345653f4.png)
+![Screenshot from 2023-04-23 17-22-19](https://user-images.githubusercontent.com/115885247/233834183-65a86b3e-b2e3-467e-a745-0fec8c0d1f80.png)
