@@ -1,0 +1,8 @@
+{
+  "dart.flutterSdkPath": "../fvm/flutter_sdk",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "redhat.telemetry.enabled": false,
+  "editor.suggest.showStatusBar": true
+}
